@@ -11,5 +11,11 @@ export class PensamentoComponent {
     autoria: 'Jao Kleber',
     modelo: 'modelo3'
   }
+  larguraPensamento(): string{
+    if(this.pensamento.conteudo.length >= 256){
+      return 'pensamento-g'
+    }
+    return 'pensamento-p'
+  }
 
 }
