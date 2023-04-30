@@ -1,0 +1,22 @@
+{
+  "pensamentos":[
+    {
+      "id": 1,
+      "conteudo": "que bom",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "que ruim",
+      "autoria": "Zomo",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "que chato",
+      "autoria": "Nay",
+      "modelo": "modelo3"
+    }
+  ]
+}
